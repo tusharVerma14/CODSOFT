@@ -1,0 +1,25 @@
+body{
+    color: #5444ffaa;;
+    /* background-color: rgba(0, 0, 0, 0.645);; */
+}
+
+.hero {
+    color: whitesmoke;
+}
+
+h2{
+    font-size: 250%;
+    margin-top: 5vw;
+}
+.col-lg-6
+{
+    width: 900px;
+
+}
+.w-lg-50
+{
+    color: black;
+}
+nav{
+    background-color: rgba(128, 128, 128, 0.545);
+}
